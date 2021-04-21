@@ -30,18 +30,19 @@ Many thanks to the late [Ted Sturtevant](http://m.phillipsfuneral.com/obituaries
 
 ### Dough
 
-1. In separate cup, mix ¼ cup warm water with yeast packet, let sit for 5 min
-2. Add following ingredients to mixing bowl
+1. In separate cup, mix ¾ cup warm water with yeast packet and 1 tsp sugar
+2. Add following ingredients to bowl and mix well
    - 3 cups flour
    - 1 tsp salt
-   - 2 tsp granulated sugar
+   - 1 tsp granulated sugar
    - 1 Tbsp olive oil
    - 1 tsp honey
-3. After 5 minutes, add ¾ cup warm water to yeast
+3. After 5 minutes, add ¼ cup warm water to yeast
 4. Add water/yeast mixture to mixing bowl
 5. Mix well, kneed dough
 6. Cut dough in half, put in separate bowls
-7. Cover and let rise. Turn over and push down once
+7. Spread olive oil over dough
+8. Cover and let rise. Turn over and push down once
 
 ### Sauce
 
