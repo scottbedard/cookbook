@@ -1,6 +1,6 @@
 # Pizza
 
-Many thanks to the late [Ted Sturtevant](http://m.phillipsfuneral.com/obituaries/events?obituaryId=12549723) for this recipe.
+Many thanks to the late [Ted Sturtevant](https://github.com/scottbedard/pizza/blob/main/OBITUARY.md) for this recipe.
 
 ### Ingredients
 
