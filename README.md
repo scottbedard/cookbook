@@ -32,7 +32,7 @@ Many thanks to the late [Ted Sturtevant](https://github.com/scottbedard/pizza/bl
 
 1. In separate cup, mix ¾ cup warm water with yeast packet and 1 tsp sugar
 2. Add following ingredients to bowl and mix well
-   - 3 cups flour
+   - 2.5 cups flour
    - 1 tsp salt
    - 1 tsp granulated sugar
    - 1 Tbsp olive oil
@@ -60,7 +60,7 @@ Many thanks to the late [Ted Sturtevant](https://github.com/scottbedard/pizza/bl
 
 ### Pizza
 
-1. Put stone in oven, heat to 490°
+1. Put stone in oven, heat to 450°
 2. **GET ALL INGREDIENTS & TOPPINGS READY**
 3. Put flour on pizza peel and pastry mat
 4. Stretch pizza
