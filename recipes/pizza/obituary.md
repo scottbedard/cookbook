@@ -1,4 +1,4 @@
-<img src="https://github.com/scottbedard/pizza/blob/main/ted.jpeg" alt="Theodore W. Sturtevant" width="200" />
+<img src="https://github.com/scottbedard/pizza/blob/main/recipes/pizza/ted.jpeg" alt="Theodore W. Sturtevant" width="200" />
 
 # Theodore W. Sturtevant
 ### September 28, 1961 - March 24, 2020
