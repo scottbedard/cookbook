@@ -11,6 +11,7 @@
 - 1 egg
 - ½ teaspoon vanilla extract
 - 1 ½ cups blueberries
+- 2 teaspoons cinnamon
 - Small amount of raw sugar
 
 ### Utensils
@@ -25,7 +26,7 @@
 
 1. Preheat oven to 350° F
 2. Grease loaf pan
-3. Mix flour, sugar, baking powder, and salt in a large bowl
+3. Mix flour, sugar, baking powder, cinnamon, and salt in a large bowl
 4. Stir milk, oil, egg, and vanilla extract into flour mixture until just blended
 5. Gently fold blueberries into batter and pour into prepared loaf pan
 6. Sprinkle raw sugar over top of batter
