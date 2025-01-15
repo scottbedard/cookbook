@@ -15,7 +15,7 @@
 ### Directions
 
 1. Mix flour, yeast, and salt in large bowl
-2. Add water, and use handle of wooden spoon to mix until all flour is incorporated. Dough should be wet and not kneadable, but not runny like cake batter
+2. Add around 2 cups warm water, and use handle of wooden spoon to mix until all flour is incorporated. Dough should be wet and sticky. Not kneadable, but not runny like cake batter
 3. Cover and let rise for 2 to 3 hours until it doubles in volume
    - (Optional) Refrigerate for flavor development up to 3 days. Bring dough to room temperature before baking
 4. Put dutch oven in oven with lid, and preheat to 450° F
