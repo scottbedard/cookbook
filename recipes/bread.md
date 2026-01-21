@@ -5,7 +5,6 @@
 - 3 cups bread flour
 - 2 tsp rapid rise / instant yeast
 - 2 tsp cooking / kosher salt (not table salt)
-- 1 tsp rosemary
 - 1 tsp parsley
 
 ### Utensils
@@ -16,7 +15,7 @@
  
 ### Directions
 
-1. Mix flour, yeast, rosemary, parsley and salt in large bowl
+1. Mix flour, yeast, parsley and salt in large bowl
 2. Add around 2 cups warm water, and use handle of wooden spoon to mix until all flour is incorporated. Dough should be wet and sticky. Not kneadable, but not runny like cake batter
 3. Cover and let rise for 2 to 3 hours until it doubles in volume
    - (Optional) Refrigerate for flavor development up to 3 days. Bring dough to room temperature before baking
